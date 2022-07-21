@@ -30,7 +30,7 @@ class Document:
 
 @dataclass
 class Project:
-    fn = '/Users/julianharley/Projects/scrivener_inserter/untitled.scriv'
+    fn:str
     documents: list[Document] = field(default_factory=list)
     styles: list[Style] = field(default_factory=list)
 
@@ -65,7 +65,7 @@ class Project:
 
 
 if __name__ == '__main__':
-    p = Project()
+    p = Project(fn='testproject.scriv')
     p.populate_styles()
     p.get_doc_folder_names()
     p.associate_doc_style_codes_with_global_style_list()

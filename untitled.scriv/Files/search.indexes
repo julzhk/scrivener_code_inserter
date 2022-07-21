@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="DA2897E6-155B-4B6E-9716-3AE06F5D8E3A">
+            <Title>test 1</Title>
+            <Text>1
+2
+
+Code a 
+Code b
+
+3
+4
+</Text>
+        </Document>
+        <Document ID="2A52E41C-C11E-4192-BC7C-84396D6BD17F">
+            <Title>plain</Title>
+            <Text>1
+2
+3</Text>
+        </Document>
+        <Document ID="9968A8DC-7348-45A2-8FF5-BBD2F40EFC6F">
+            <Title>test3</Title>
+            <Text>11 
+Code 2
+Code 3
+
+code</Text>
+        </Document>
+        <Document ID="159ED985-B48F-4C45-9397-2B9C8283CF09">
+            <Title>code</Title>
+            <Text>1
+2
+a
+b
+c
+D
+Ddddd ddd
+
+
+3
+</Text>
+        </Document>
+        <Document ID="FFBB5F1B-BC39-4F4A-99CB-3E82F80F41DA">
+            <Notes>Test note
+</Notes>
+        </Document>
+        <Document ID="B2017EC9-F503-487B-8318-EC8E9AA16859">
+            <Title>test2</Title>
+            <Text>2
+
+1 
+Code 2
+Code 3
+
+Normal</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>
